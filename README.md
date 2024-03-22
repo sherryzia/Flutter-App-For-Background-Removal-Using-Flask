@@ -52,7 +52,3 @@ This Flask server provides an endpoint for processing images and removing their 
 - `Flask`: For building the web server.
 - `rembg`: For background removal from images.
 - `Pillow`: For image processing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
