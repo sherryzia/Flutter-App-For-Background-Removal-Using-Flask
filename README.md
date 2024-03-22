@@ -1,4 +1,4 @@
-# This Repository contains two apps:
+# THIS REPOSITORY CONTAINS TWO SEPERATE APPS:
 
 # Background Removal App (FLUTTER)
 
